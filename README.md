@@ -18,7 +18,10 @@ To get started you need:
 - oracle database (RDBMS - relational database management system)
 - oracle sql developer (IDE for oracle database)
 
+# ERD schema
 
+![alt text](https://github.com/Wuers/OracleSQL-car-rental-database/blob/main/img/ERD-shema.jpg?raw=true)
+*names of tables, functions etc are in polish as it is a part of my college project.
 # Contact 
 [LinkedIn](https://www.linkedin.com/in/wiktor-sadowski-1385ba207/)
 
