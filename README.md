@@ -1,6 +1,7 @@
 # OracleSQL-car-rental-database
 Project of a oracle sql database to menage car rental company with many locations. 
-Improvement of the data logic is planned - changes will be implemented
+Improvement of the data logic is planned - changes will be implemented.
+Full oracle apex app will be made available upon completion of the engineering thesis.
 
 
 # Functionalities
@@ -22,6 +23,12 @@ To get started you need:
 
 ![alt text](https://github.com/Wuers/OracleSQL-car-rental-database/blob/main/img/ERD-shema.jpg?raw=true)
 *names of tables, functions etc are in polish as it is a part of my college project.
+
+# App
+One of few app functionalities - available cars screen:
+![alt text](https://github.com/Wuers/OracleSQL-car-rental-database/blob/main/img/Ekran_Przeglad_floty.jpg?raw=true).
+
+
 # Contact 
 [LinkedIn](https://www.linkedin.com/in/wiktor-sadowski-1385ba207/)
 
